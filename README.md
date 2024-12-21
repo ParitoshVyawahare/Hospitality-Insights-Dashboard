@@ -22,7 +22,8 @@ The goal of this project is to enable stakeholders to make data-driven decisions
 
 ## Screenshots
 ### Dashboard Overview
-![Hospitality Dashboard Screenshot](image.png)
+![image](https://github.com/user-attachments/assets/88d18644-166d-4a49-9476-a9149d49b7ef)
+
 
 ---
 
