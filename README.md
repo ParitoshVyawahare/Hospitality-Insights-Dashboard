@@ -81,7 +81,4 @@ For more details or queries, feel free to reach out:
 Email: [vyawahare.p@northeastern.edu](mailto:vyawahare.p@northeastern.edu)  
 LinkedIn: [linkedin.com/in/paritosh2712](https://www.linkedin.com/in/paritosh2712)
 
----
 
-## License
-This project is licensed under the [MIT License](LICENSE).
